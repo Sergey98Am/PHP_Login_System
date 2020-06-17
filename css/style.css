@@ -1,0 +1,18 @@
+section {
+    background-color: rgb(112, 211, 211);
+}
+section .login_section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+    min-height: 550px;
+    flex-direction: column;
+}
+section h1{
+    font-size: 50px;
+    font-style: italic;
+}
+.sign_up_section h1{
+    margin-bottom: 20px;
+}
